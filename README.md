@@ -1,4 +1,4 @@
-backend & bot developer
+# backend & bot developer
 
-my blog in telegram: @kalicoderblog
+my blog on telegram: @kalicoderblog 
 write me in discord: cxder#4291
